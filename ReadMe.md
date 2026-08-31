@@ -16,7 +16,7 @@ It is an investigation into transformation.
 **Version:** 0.1 — Foundation  
 **Project Type:** Architectural Research / Design / Methodology / Knowledge Ecosystem  
 **Author:** parham mirzaei  
-**Institution:** azad university  
+**Institution:** azad university of tehran 
 **Started:** 2026/1/5
 
 ---
@@ -344,7 +344,7 @@ Current priorities:
 
 Architectural Research / Design
 
-azad university
+azad university of tehran
 
 ---
 
