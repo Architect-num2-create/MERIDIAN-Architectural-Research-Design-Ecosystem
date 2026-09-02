@@ -50,3 +50,66 @@ implicit.
   earlier precedent, or does it belong to a longer lineage that includes
   Ilkhanid double-shell construction? See the priority question raised in
   [Ilkhanid / Iranian](03_ILKHANID_IRANIAN.md).
+
+
+
+
+
+
+
+
+# Russian — Saint Basil's Cathedral
+
+## What is historically established
+
+The stone cathedral standing in Moscow today contains nine domed churches,
+not seven. The number seven belongs to an earlier building on the same
+site: the wooden Trinity Cathedral of 1552, which had seven chapels before
+it was replaced by the stone ensemble commissioned shortly after. The nine
+domes of the stone cathedral are also not original in appearance. In the
+sixteenth century they were uniformly gilded tin, with modest green and
+blue ceramic inserts — not the vividly multicolored composition visitors see
+today. That color scheme was acquired gradually, in stages between the
+1680s and 1848.
+
+Two historically separate facts, in other words, are often collapsed into
+one popular image: "Saint Basil's has always looked like this." It has not.
+
+## What MERIDIAN extracts
+
+- **Dome multiplicity with hierarchical differentiation** — a central form
+  dominant, peripheral forms subordinate but individually distinct, rather
+  than a single repeated unit.
+- **Rhythmic and chromatic complexity** as a compositional strategy — a
+  building that reads as one structure while its parts remain visually
+  differentiated from each other.
+- The present-day chromatic richness, used consciously as a reference to
+  the *contemporary* appearance of Saint Basil's, not to its sixteenth-
+  century state.
+
+## Where MERIDIAN's own numbers diverge
+
+MERIDIAN's seven-dome system does not match either phase of Saint Basil's
+built history cleanly: the stone cathedral has nine, and the number seven
+belongs to a different, wooden, predecessor building. This is worth stating
+directly rather than smoothing over — the project's seven is a design
+figure, most likely arrived at through the one-central-plus-six-peripheral
+logic described in [Byzantine / Renaissance](01_BYZANTINE_RENAISSANCE.md),
+not a citation of Saint Basil's dome count. Likewise, if MERIDIAN's
+differentiated dome coloring is presented as historically derived, it
+should be attributed to Saint Basil's present appearance, not to the
+sixteenth-century gilded original.
+
+Neither of these is a flaw in the project. It is simply the difference
+between *quoting a building* and *transforming a principle drawn from it* —
+and MERIDIAN's own stated method commits it to the second, which makes
+naming the divergence part of doing the method correctly, not a concession.
+
+## Open threads
+
+- Does the 1680s–1848 chromatic evolution itself suggest a useful design
+  idea — a building whose color composition is understood as *accumulated
+  over time* rather than fixed at completion? Worth developing in
+  [Research Gaps](../11_RESEARCH_GAPS/) or the
+  [Hypothesis Lab](../12_HYPOTHESIS_LAB/).
+
