@@ -1,3 +1,68 @@
+# 14 — RESEARCH ARCHIVE
+
+## What this folder is for
+
+Everything above this file in Dossier I is curated — written to be read.
+This folder is where the unfiltered material lives instead, so that
+curation elsewhere in the dossier never has to mean deletion. Nothing that
+mattered to how MERIDIAN arrived at a conclusion should be lost; it should
+simply not clutter the reader-facing dossier.
+
+This folder should hold:
+
+- **Raw research passes** — full search results, source dumps, and working
+  notes, before they were distilled into the polished files in
+  [Historical Intelligence](../04_HISTORICAL_INTELLIGENCE/) and
+  [Four-Source Matrix](../05_FOUR_SOURCE_MATRIX/).
+- **Superseded drafts** — earlier versions of any dossier file, kept rather
+  than overwritten silently, so the project's own thinking stays traceable.
+- **The discovery log** — a running, chronological record of when and how a
+  significant finding actually surfaced (for instance: the Soltaniyeh
+  double-shell precedent, and the moment it was recognized as changing the
+  Iranian identity argument). This is different from the tidy, reorganized
+  presentation of that finding in
+  [Iranian Architectural Position](../06_IRANIAN_ARCHITECTURAL_POSITION/) —
+  the log keeps the actual order of discovery, including false starts.
+- **Rejected interpretations** — readings or claims that were seriously
+  considered and then set aside, with a brief note on why. Overlaps with
+  the resolved-hypothesis table in the
+  [Hypothesis Lab](../12_HYPOTHESIS_LAB/), but this is the fuller version.
+
+## What this folder is NOT for
+
+It is not a second copy of the curated dossier, and it is not a dumping
+ground for material that was never actually used. If a piece of raw
+research never fed a question, an operator, or a decision anywhere else in
+Dossier I, it probably does not belong even here — it belongs nowhere, and
+that is fine.
+
+## Suggested internal structure
+
+```
+14_RESEARCH_ARCHIVE/
+├── raw_passes/          (dated subfolders, one per research session)
+├── discovery_log.md     (chronological, append-only)
+├── superseded_drafts/   (old versions of any dossier file, dated)
+└── rejected/            (interpretations considered and set aside)
+```
+
+This structure is proposed, not fixed — populate it once real material
+exists to file, rather than pre-building empty subfolders.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Byzantine / Renaissance — Saint Peter's Basilica
 
 ## What is historically established
