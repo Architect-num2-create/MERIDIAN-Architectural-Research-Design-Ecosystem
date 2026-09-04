@@ -1,0 +1,18 @@
+# Contradiction Map
+
+A contradiction map does not exist to be resolved. It exists so the project stops pretending it doesn't know about its own tensions. Five are mapped here; more can be added as the other organs grow.
+
+### C1 — Symbolic number vs. structural claim
+The seven domes, the five Achaemenid columns, the 185 courtyard columns were chosen for meaning, not derived from load calculation, historical column-count precedent, or span analysis — and this has been explicitly affirmed as *design intent*, not an error to fix. At the same time, the project wants to be arguable as "structurally plausible, buildable" rather than purely conceptual. Those two positions can coexist, but only if the dossier is honest about which claim is being made where: symbolic integrity is not the same achievement as structural defensibility, and Dossier III should not let a reader quietly assume the second because the first was stated with confidence.
+
+### C2 — Transformation vs. recognizability
+The project's core verb is *transformation*: sources decomposed and metamorphosed into something new, explicitly not a collage. And yet a viewer can still name all four sources on sight — Basil's rhythm, Peter's cross, Ilkhanid's arch and gold, Achaemenid's column. A collage is also, technically, unmistakable-sources-still-visible. The honest question this contradiction protects is: how much of MERIDIAN is metamorphosis, and how much is recombination wearing metamorphosis's name? The Skeleton organ (math/physics) and the Scar Tissue organ (counterfactuals) are the two places in this dossier built to actually test that question rather than assert an answer.
+
+### C3 — Open ecosystem vs. protected authorship
+Layer 5 is meant to be forkable, GitHub-native, explicitly inviting other students to extend and mutate the method. Simultaneously, there is real concern about the paper or other parts being lightly altered and resubmitted elsewhere without credit — a desire for legal authorship priority *without* locking the repository down. Openness and protection are not opposites, but they do compete for the same early decisions (timestamping strategy, license choice, what gets published before what). This dossier does not resolve which comes first; it flags that the sequencing itself is a design decision, not a formality to handle later.
+
+### C4 — The nervous system's voice vs. a single accountable author
+This dossier is written as if it is not authored by Parham — a separate system reading and occasionally disagreeing with the project. But every academic and legal claim the ecosystem needs (authorship priority, citation, the paper's defense) requires a single, identifiable human author standing fully behind the work. The "not-authored" voice is a literary device for Dossier IV specifically; it must never be allowed to leak into Dossier III or the authorship record, where it would actively work against the protection sought in C3.
+
+### C5 — The unfinished grade
+A 20/20 was given to an object that was, by the project's own account, incomplete. Two readings are both currently available and neither has been chosen: (a) the grade validated the *concept and process*, independent of finish — meaning finish was never really what was being graded, or (b) the grade validated something the sheet was communicating *despite* being unfinished, which would mean the unfinished state itself was doing real work, perhaps by forcing the diagrammatic, process-revealing presentation that had been suggested as an alternative to a photorealistic render. This dossier leaves the question open on purpose — it belongs in the Unresolved Cortex, not here; C5 exists mainly to mark that the immune system noticed it first.
