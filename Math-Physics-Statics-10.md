@@ -1,0 +1,11 @@
+# Math, Physics, Statics
+
+This organ does the one thing the rest of the dossier deliberately avoids: put a number next to a claim. It is not trying to make the symbolism structural — that fight belongs to Organ II's Contradiction Map — its job is to make the fight precise instead of hand-wavy.
+
+**Column rhythm.** 185 courtyard columns in a column–arch–column pattern is a spacing decision as much as a count. At a plausible courtyard perimeter for a footprint this size, that count implies a bay spacing in the range real masonry arcades actually use — meaning the number, whatever its symbolic origin, happens to land somewhere structurally sane rather than absurd. That "happens to" deserves to be stated honestly, rather than implied to have been reverse-engineered from statics it wasn't.
+
+**Dome tiering.** Three-tier stepped ziggurat profiles are structurally more forgiving than a single tall shell dome — each tier is a shorter, more stable span carrying a smaller one above it, closer in logic to a stepped pyramid than to Saint Basil's actual onion-and-drum construction. This is the clearest place the project is honestly *safer* than its most visible influence, not merely different from it — worth stating plainly in Dossier III rather than left implicit.
+
+**The five Achaemenid columns.** Persepolis's real columns were slender relative to their height because of a specific stone and capital design. Five freestanding columns quoted at that proportion inside a domed cruciform volume would be carrying a very different load profile than their originals ever did. This is flagged here, not solved — exactly the kind of claim a peer reviewer (Organ II) would ask about first, and exactly the kind of gap a hostile red-team reader would find fastest.
+
+**The Aperture Core.** Whatever its final mechanism, a rotating or light-modulating element at the crossing of a cruciform dome is a real, solvable engineering problem with historical analogues — oculus rings, moving screens, seasonal apertures. This organ's task for future work is to take one candidate from Organ III's Alternate Rings and actually run rough numbers on it: converting myth into a testable claim, without deciding in advance that the myth has to lose.
